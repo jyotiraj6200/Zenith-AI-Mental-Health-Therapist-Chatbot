@@ -1,9 +1,1 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+ZENITH-AI Mental Health Therapist Chatbot is an AI-powered virtual mental wellness companion designed to offer personalized emotional support anytime, anywhere. Using AI, NLP, and modern web technologies, it communicates in a friendly, natural way—listening to users, providing guidance, and helping them manage stress, anxiety, depression, and loneliness in a safe and private space.
